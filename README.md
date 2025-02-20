@@ -1,27 +1,31 @@
-# First promises
+# First Promises
 
-### Description
+## 🎮 About the Project
+In this project, two promises were created:
+- **promise1** resolves when the logo is clicked.
+- **promise2** rejects after 3 seconds.
 
-Created 2 promises `promise1` and `promise2`.
-- `promise1` should be resolved on a `click` on logo
-- `promise2` promise should be rejected in 3 seconds
-- added success and error handlers for both promises
+Both promises have success and error handlers, demonstrating basic promise functionality in JavaScript.
 
-### Stack
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)
+- **CSS** (For styling)
+- **JavaScript** (Handling promises)
 
-- HTML (BEM)
-- CSS
-- JS
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Parcel** – Web application bundler  
 
-### Tools
+## 📌 Features
+✅ Promise handling for success and failure  
+✅ Click interaction to trigger promise resolution  
+✅ Timed rejection for testing error handling  
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Parcel
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/promise-basic/)
 
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/promise-basic/)
-
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_promise_basic_DOM)
